@@ -32,7 +32,7 @@
 ## ✅ Problem Checklist
 
 ### Level 1 — Warm-up (Output, variables, basic input)
-- [ ] 1. Print "Hello, World!"
+- [ ✅] 1. Print "Hello, World!"
 - [ ] 2. Read two numbers and print their sum
 - [ ] 3. Read two numbers and print sum, difference, product, quotient
 - [ ] 4. Read radius of a circle, print area and circumference
