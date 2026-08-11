@@ -21,7 +21,7 @@
 
 ## 📊 Progress
 
-**Completed: 0 / 100**
+**Completed: 25 / 100**
 
 ```
 [                                                  ] 0%
