@@ -32,35 +32,35 @@
 ## ✅ Problem Checklist
 
 ### Level 1 — Warm-up (Output, variables, basic input)
-- [ ✅] 1. Print "Hello, World!"
-- [ ] 2. Read two numbers and print their sum
-- [ ] 3. Read two numbers and print sum, difference, product, quotient
-- [ ] 4. Read radius of a circle, print area and circumference
-- [ ] 5. Read length and breadth of a rectangle, print area and perimeter
-- [ ] 6. Swap two numbers using a third variable
-- [ ] 7. Swap two numbers without using a third variable
-- [ ] 8. Convert Celsius to Fahrenheit
-- [ ] 9. Read marks of 5 subjects, print total and average
-- [ ] 10. Convert seconds into hours, minutes and seconds
+- [ ] 1. Print "Hello, World!" ✅
+- [ ] 2. Read two numbers and print their sum ✅
+- [ ] 3. Read two numbers and print sum, difference, product, quotient ✅
+- [ ] 4. Read radius of a circle, print area and circumference ✅
+- [ ] 5. Read length and breadth of a rectangle, print area and perimeter ✅
+- [ ] 6. Swap two numbers using a third variable ✅
+- [ ] 7. Swap two numbers without using a third variable ✅
+- [ ] 8. Convert Celsius to Fahrenheit ✅
+- [ ] 9. Read marks of 5 subjects, print total and average ✅
+- [ ] 10. Convert seconds into hours, minutes and seconds ✅
 
 ### Level 2 — Conditions (if / else)
-- [ ] 11. Check whether a number is even or odd
-- [ ] 12. Check whether a number is positive, negative or zero
-- [ ] 13. Find the largest among three numbers
-- [ ] 14. Find the smallest among three numbers
-- [ ] 15. Check whether a year is a leap year
-- [ ] 16. Check whether a character is a vowel or consonant
-- [ ] 17. Check whether a character is alphabet, digit or special symbol
-- [ ] 18. Print grade (A/B/C/D/Fail) based on marks
-- [ ] 19. Check whether a number is divisible by both 3 and 5
-- [ ] 20. Check voting eligibility based on age
+- [ ] 11. Check whether a number is even or odd ✅
+- [ ] 12. Check whether a number is positive, negative or zero ✅
+- [ ] 13. Find the largest among three numbers ✅
+- [ ] 14. Find the smallest among three numbers ✅
+- [ ] 15. Check whether a year is a leap year ✅
+- [ ] 16. Check whether a character is a vowel or consonant ✅
+- [ ] 17. Check whether a character is alphabet, digit or special symbol ✅
+- [ ] 18. Print grade (A/B/C/D/Fail) based on marks ✅
+- [ ] 19. Check whether a number is divisible by both 3 and 5 ✅
+- [ ] 20. Check voting eligibility based on age ✅
 
 ### Level 3 — Loops on N
-- [ ] 21. Display all natural numbers from 1 to n
-- [ ] 22. Display natural numbers from 1 to n in reverse
-- [ ] 23. Display all even numbers from 1 to n
-- [ ] 24. Display all odd numbers from 1 to n
-- [ ] 25. Sum of all natural numbers from 1 to n
+- [ ] 21. Display all natural numbers from 1 to n ✅
+- [ ] 22. Display natural numbers from 1 to n in reverse ✅
+- [ ] 23. Display all even numbers from 1 to n ✅
+- [ ] 24. Display all odd numbers from 1 to n ✅
+- [ ] 25. Sum of all natural numbers from 1 to n ✅
 - [ ] 26. Sum of all even numbers from 1 to n
 - [ ] 27. Sum of all odd numbers from 1 to n
 - [ ] 28. Product of numbers 1 to n (factorial)
