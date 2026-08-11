@@ -1,10 +1,5 @@
 # 100 Programs — Building My Problem-Solving Foundation
 
-Solving 100 beginner-to-intermediate programming problems, in order, to build strong fundamentals before moving on to DSA and LeetCode.
-
-Based on the **"100 Programs to Build Your Problem-Solving"** roadmap by [codeWithShivah](#).
-
----
 
 ## 📌 About
 
