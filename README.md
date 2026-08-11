@@ -151,7 +151,7 @@
 
 ---
 
-## 🗂 Repo Structure (suggested)
+## 🗂 Repo Structure 
 
 ```
 100-programs/
