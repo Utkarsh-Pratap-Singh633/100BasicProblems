@@ -21,7 +21,7 @@
 
 ## 📊 Progress
 
-**Completed: 25 / 100**
+**Completed: 33 / 100**
 
 ```
 [                                                  ] 0%
@@ -61,16 +61,16 @@
 - [ ] 23. Display all even numbers from 1 to n ✅
 - [ ] 24. Display all odd numbers from 1 to n ✅
 - [ ] 25. Sum of all natural numbers from 1 to n ✅
-- [ ] 26. Sum of all even numbers from 1 to n
-- [ ] 27. Sum of all odd numbers from 1 to n
-- [ ] 28. Product of numbers 1 to n (factorial)
-- [ ] 29. Multiplication table of a number n
-- [ ] 30. Display multiples of m up to n terms
-- [ ] 31. Count numbers from 1 to n divisible by 3
-- [ ] 32. Display numbers from 1 to n divisible by 3 or 5
+- [ ] 26. Sum of all even numbers from 1 to n ✅
+- [ ] 27. Sum of all odd numbers from 1 to n ✅
+- [ ] 28. Product of numbers 1 to n (factorial) ✅
+- [ ] 29. Multiplication table of a number n ✅
+- [ ] 30. Display multiples of m up to n terms ✅
+- [ ] 31. Count numbers from 1 to n divisible by 3 ✅
+- [ ] 32. Display numbers from 1 to n divisible by 3 or 5 ✅
 
 ### Level 4 — Working with the digits of a number
-- [ ] 33. Count the number of digits in n
+- [ ] 33. Count the number of digits in n ✅
 - [ ] 34. Display all digits of n (one per line)
 - [ ] 35. Sum of all digits of n
 - [ ] 36. Product of all digits of n
