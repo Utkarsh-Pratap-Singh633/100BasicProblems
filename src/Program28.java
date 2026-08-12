@@ -7,10 +7,10 @@ public class Program28 {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter a number");
         int n = sc.nextInt();
-        int sum = 0;
+        int factorial = 1;
         for (int i = 1; i <= n; i++) {
-            sum *= i;
+            factorial = factorial * i;
         }
-        System.out.println(sum);
+        System.out.println(factorial);
     }
 }
