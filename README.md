@@ -21,7 +21,7 @@
 
 ## 📊 Progress
 
-**Completed: 45 / 100**
+**Completed: 46 / 100**
 
 
 ---
@@ -82,7 +82,7 @@
 ### Level 5 — Number classification
 - [ ] 44. Check whether a number is prime ✅
 - [ ] 45. Display all prime numbers from 1 to n ✅
-- [ ] 46. Display the first n prime numbers
+- [ ] 46. Display the first n prime numbers ✅
 - [ ] 47. Check whether a number is an Armstrong number
 - [ ] 48. Display all Armstrong numbers from 1 to n
 - [ ] 49. Check whether a number is a perfect number
