@@ -21,7 +21,7 @@
 
 ## 📊 Progress
 
-**Completed: 33 / 100**
+**Completed: 45 / 100**
 
 
 ---
@@ -68,20 +68,20 @@
 
 ### Level 4 — Working with the digits of a number
 - [ ] 33. Count the number of digits in n ✅
-- [ ] 34. Display all digits of n (one per line)
-- [ ] 35. Sum of all digits of n
-- [ ] 36. Product of all digits of n
-- [ ] 37. Reverse a number n
-- [ ] 38. Find the largest digit in n
-- [ ] 39. Find the smallest digit in n
-- [ ] 40. Count even and odd digits in n
-- [ ] 41. Check whether n is a palindrome
-- [ ] 42. Replace all zeros in n with digit 5
-- [ ] 43. Sum of the first and last digit of n
+- [ ] 34. Display all digits of n (one per line) ✅
+- [ ] 35. Sum of all digits of n ✅
+- [ ] 36. Product of all digits of n ✅
+- [ ] 37. Reverse a number n ✅
+- [ ] 38. Find the largest digit in n ✅
+- [ ] 39. Find the smallest digit in n ✅
+- [ ] 40. Count even and odd digits in n ✅
+- [ ] 41. Check whether n is a palindrome ✅
+- [ ] 42. Replace all zeros in n with digit 5 ✅ 
+- [ ] 43. Sum of the first and last digit of n ✅
 
 ### Level 5 — Number classification
-- [ ] 44. Check whether a number is prime
-- [ ] 45. Display all prime numbers from 1 to n
+- [ ] 44. Check whether a number is prime ✅
+- [ ] 45. Display all prime numbers from 1 to n ✅
 - [ ] 46. Display the first n prime numbers
 - [ ] 47. Check whether a number is an Armstrong number
 - [ ] 48. Display all Armstrong numbers from 1 to n
