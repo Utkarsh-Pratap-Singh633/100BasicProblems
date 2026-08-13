@@ -1,8 +1,8 @@
-//  Write a program to display all prime numbers from 1 to n
+// Write a program to display the first n prime numbers
 
 import java.util.Scanner;
 
-public class Program45 {
+public class Program46 {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
@@ -10,7 +10,10 @@ public class Program45 {
         System.out.print("Enter n: ");
         int n = input.nextInt();
 
-        for (int num = 2; num <= n; num++) {
+        int count = 0;
+        int num = 2;
+
+        while (count < n) {
 
             boolean isPrime = true;
 
@@ -23,7 +26,10 @@ public class Program45 {
 
             if (isPrime) {
                 System.out.println(num);
+                count++;
             }
+
+            num++;
         }
     }
 }
