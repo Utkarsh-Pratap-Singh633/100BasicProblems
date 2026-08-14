@@ -28,7 +28,6 @@ public class Program46 {
                 System.out.println(num);
                 count++;
             }
-
             num++;
         }
     }
