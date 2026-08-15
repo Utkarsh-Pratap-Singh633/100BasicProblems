@@ -21,7 +21,7 @@
 
 ## 📊 Progress
 
-**Completed: 46 / 100**
+**Completed: 50 / 100**
 
 
 ---
@@ -83,10 +83,10 @@
 - [ ] 44. Check whether a number is prime ✅
 - [ ] 45. Display all prime numbers from 1 to n ✅
 - [ ] 46. Display the first n prime numbers ✅
-- [ ] 47. Check whether a number is an Armstrong number
-- [ ] 48. Display all Armstrong numbers from 1 to n
-- [ ] 49. Check whether a number is a perfect number
-- [ ] 50. Check whether a number is a strong number
+- [ ] 47. Check whether a number is an Armstrong number ✅
+- [ ] 48. Display all Armstrong numbers from 1 to n ✅
+- [ ] 49. Check whether a number is a perfect number ✅
+- [ ] 50. Check whether a number is a strong number ✅
 - [ ] 51. Check whether a number is an automorphic number
 - [ ] 52. Check whether a number is a Harshad (Niven) number
 - [ ] 53. Find all factors (divisors) of n
