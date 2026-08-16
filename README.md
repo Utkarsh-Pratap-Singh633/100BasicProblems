@@ -21,7 +21,7 @@
 
 ## 📊 Progress
 
-**Completed: 50 / 100**
+**Completed: 51 / 100**
 
 
 ---
@@ -87,7 +87,7 @@
 - [ ] 48. Display all Armstrong numbers from 1 to n ✅
 - [ ] 49. Check whether a number is a perfect number ✅
 - [ ] 50. Check whether a number is a strong number ✅
-- [ ] 51. Check whether a number is an automorphic number
+- [ ] 51. Check whether a number is an automorphic number ✅
 - [ ] 52. Check whether a number is a Harshad (Niven) number
 - [ ] 53. Find all factors (divisors) of n
 - [ ] 54. Count the number of factors of n
