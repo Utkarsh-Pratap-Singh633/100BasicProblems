@@ -1,7 +1,5 @@
 // Write a program to check whether a number is an automorphic number.
 
-// Write a program to check whether a number is an automorphic number.
-
 import java.util.Scanner;
 
 public class Program51 {
