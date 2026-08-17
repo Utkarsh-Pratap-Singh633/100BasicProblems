@@ -1,6 +1,5 @@
 // Write a program to replace all zeros in a number n with the digit 5.
 
-// Write a program to replace all zeros in a number n with the digit 5.
 
 import java.util.Scanner;
 
